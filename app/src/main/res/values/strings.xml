@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">BirthdayCard</string>
+    <string name="welcome">Selamat Datang</string>
+    <string name="input_data">Silahkan masukkan data yang diperlukan</string>
+    <string name="name_goal">Nama Tujuan</string>
+    <string name="name_from">Nama Pengirim</string>
+    <string name="greeting">Ucapan</string>
+    <string name="create_birthday_card">Buat Kartu Ucapan</string>
+    <string name="background">Background</string>
+    <string name="happy_birthday">Happy Birthday</string>
+    <string name="from">From</string>
+    <string name="background_blue">Background Blue</string>
+    <string name="background_pink">Background Pink</string>
+    <string name="select_background">Silahkan pilih background</string>
 </resources>
